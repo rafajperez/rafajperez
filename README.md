@@ -1,5 +1,5 @@
 ### Eae! Sou o Rafael Perez 👋
-- 🔭 Atualmente trabalho como professor de música, mas pretendo em 2 anos ser um Dev Full Stack
+- 🔭 Atualmente trabalho como professor de música, mas pretendo no futuro, ser um Dev Full Stack!
 - 🌱 Atualmente estou estudando Front-end na Devmedia
 - 👯 Procuro amigos para estudar Dev juntos!
 - 📫 Contate-me no email rafael_cordas@hotmail.com
