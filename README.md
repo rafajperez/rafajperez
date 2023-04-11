@@ -1,6 +1,6 @@
 ### Eae! Sou o Rafael Perez 👋
 - 🔭 Atualmente trabalho como professor de música, mas pretendo no futuro, ser um Dev Full Stack!
-- 🌱 Atualmente estou estudando Front-end na Devmedia
+- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Estácio
 - 👯 Procuro amigos para estudar Dev juntos!
 - 📫 Contate-me no email rafaperez_dev_coder@hotmail.com
 
