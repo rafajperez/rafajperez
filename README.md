@@ -1,8 +1,8 @@
 ### Eae! Sou o Rafael Perez 👋
-- 🔭 Atualmente trabalho como professor de música, mas pretendo no futuro, ser um Dev Full Stack!
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas na Faculdade Estácio
-- 👯 Procuro amigos para estudar Dev juntos!
-- 📫 Contate-me no email rafaperez_dev_coder@hotmail.com
+- 🔭 I currently work as a music teacher, but in the future I intend to be a Full Stack Dev!
+- 🌱 I'm in my last semester of Systems Analysis and Development at Estácio College.
+- 👯 I always try to learn more and make new friends in this area.
+- 📫 Contacte me at rafaperez_dev_coder@hotmail.com or LinkedIn in my bio
 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
